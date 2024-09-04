@@ -9,7 +9,7 @@
 <h5>Using Docker</h5>
 <ul>
   <li>Download and install Docker from <a href="https://www.docker.com/">https://www.docker.com/</a></li>
-  <li>Run the following command to "pull Docker Image" from Docker Hub: <code>docker pull shefai/intent_aware_recomm_systems</code>
+  <li>Run the following command to pull the Docker Image from the Docker Hub: <code>docker pull shefai/intent_aware_recomm_systems</code>
   <li>Clone the GitHub repository by using the link: <code>https://github.com/Faisalse/DIDN.git</code>
   <li>Move into the <b>DIDN</b> directory</li>
   
